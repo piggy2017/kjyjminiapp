@@ -1,0 +1,173 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"miniprogramRoot": "dist/wx/",
+	"compileType": "miniprogram",
+	"appid": "wx43084758e5edbc12",
+	"projectname": "kjyjapp",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 18,
+			"list": [
+				{
+					"id": -1,
+					"name": "center",
+					"pathName": "pages/center/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "friends",
+					"pathName": "pages/friends/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "binphone",
+					"pathName": "pages/binphone/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 3,
+					"name": "activity",
+					"pathName": "pages/activity/main",
+					"query": "id=c6068231-d466-4f25-9ecb-f08816049f55",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "activityorder",
+					"pathName": "pages/activityorder/main",
+					"query": "id=c6068231-d466-4f25-9ecb-f08816049f55",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "paysuccess",
+					"pathName": "pages/paysuccess/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "activityorderdetail",
+					"pathName": "pages/activityorderdetail/main",
+					"query": "id=f4810995-54c3-47c9-b024-e7baea312938",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "integral",
+					"pathName": "pages/integralorder/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "addresslist",
+					"pathName": "pages/addresslist/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "purchasebuy",
+					"pathName": "pages/purchasebuy/main",
+					"query": "id=5d7279f8-8738-48de-a7ad-be5c1fc92cf1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "center",
+					"pathName": "pages/center/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "express",
+					"pathName": "pages/express/main",
+					"query": "id=1d71086d-9d84-4763-ae12-9f525086cb76",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "dance",
+					"pathName": "pages/dance/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "getphone",
+					"pathName": "pages/getphone/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "canvas",
+					"pathName": "pages/canvas/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "fatherday",
+					"pathName": "pages/fatherday/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "test",
+					"pathName": "pages/test/main",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "canvas",
+					"pathName": "pages/canvas/main",
+					"query": "id=1",
+					"scene": null
+				},
+				{
+					"id": 18,
+					"name": "activity",
+					"pathName": "pages/activity/main",
+					"query": "id=add504a2-2b14-4451-9bfa-64972e0e8031",
+					"scene": 1048
+				}
+			]
+		}
+	}
+}
